@@ -15,7 +15,7 @@ name                     : "Sampson N Ketetu"
 description              : "Machine Learning Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "McSampson/projects"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sampson N Ketetu"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Accra, Ghana"
