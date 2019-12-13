@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science Engineering Portfolio"
+title                    : "Machine Learning Engineering Portfolio"
 title_separator          : "-"
 name                     : "Sampson N Ketetu"
 description              : "Machine Learning Engineering"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Sampson N Ketetu"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Machine Learning Portfolio"
   location         : "Accra, Ghana"
   email            : "samps69@yahoo.com"
   uri              :
